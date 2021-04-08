@@ -162,7 +162,7 @@
     <vers.junit>4.10</vers.junit>
     <vers.log4j>1.2.16</vers.log4j>
     <vers.maven>2.0.6</vers.maven>
-    <vers.mockito>1.9.5</vers.mockito>
+    <vers.mockito>1.10.19</vers.mockito>
     <vers.mojo-executor>1.5</vers.mojo-executor>
     <vers.oozie>3.3.2-cdh${cdh.version}</vers.oozie> <!-- OOZIE-1790 -->
     <vers.parquet>1.8.1</vers.parquet>
