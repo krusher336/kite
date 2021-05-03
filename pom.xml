@@ -154,7 +154,7 @@
          should be added to the distributed cache by class.
          -->
     <vers.hive>1.1.0</vers.hive>
-    <vers.hive-cdh5>1.1.0-cdh${cdh5.version}</vers.hive-cdh5>
+    <vers.hive-cdh5>3.1.3000.7.2.9.0-203</vers.hive-cdh5>
     <vers.jetty>8.1.14.v20131031</vers.jetty>
     <vers.jetty.morphlines>9.3.8.v20160314</vers.jetty.morphlines>
     <vers.jexl>2.1.1</vers.jexl>
